@@ -1,0 +1,4 @@
+com/healthcare/vo/PersonDetailsVO.class
+com/healthcare/resource/PersonDetailsResource.class
+com/healthcare/dao/PersonDetailsDAO.class
+com/healthcare/service/PersonDetailsService.class
