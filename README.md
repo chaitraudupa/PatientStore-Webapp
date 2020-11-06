@@ -1,6 +1,8 @@
 # PatientStore-Webapp
 # About Project
-Developed APIs using Spring to store and retrieve data as part of patient store web app. On Client side, JSP page is designed to enter the patient details and to view patient reports. The patient data is passed to controller, which is developed using Spring MVC. Spring Rest Template is used to connect client and server. On server side, api is used to collect the data and transfer those data to Data Access Object(DAO). In DAO layer hibernate is implemented to perform CRUD operations on MySQL Database.
+Designed and developed JAVA APIs for Patient Management System where patients and doctors will be able to register/login and create their profile over webapp.
+Patient will be able to add their information, health status, symptoms etc over webapp.Patients will be able to select their medical problems and will also be able to type in medical problems over the webapp. Doctors will also be able to view patient medical history and consultation details. Admin portal facilitate admin to login to administrative portal and manage patients and doctors portal. Patients and doctors details are stored in MYSQL database using Hibernate. Patients and doctors Registration forms are created using JSP Pages. 
+
 
 # Built With
 On server side:
